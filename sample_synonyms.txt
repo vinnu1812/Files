@@ -15,7 +15,7 @@ sea biscuit, sea biscit => seabiscuit
 ipod, i-pod, i pod
 foozball , foosball
 universe , cosmos
-vinod kumar => vk
+vinod kumar => vk, vk7
 lol, laughing out loud
 
 # If expand==true, "ipod, i-pod, i pod" is equivalent
